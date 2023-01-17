@@ -24,9 +24,5 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp; 
 <br><br> -->
-  
-  <div>
     
-  ![Snake animation](https://github.com/Jefferson-BR/Jefferson-BR/blob/main/.github/workflows/Snake.yml)
-    
-  </div>
+ ![Snake animation](https://github.com/Jefferson-BR/Jefferson-BR/blob/output/github-contribution-grid-snake.svg)
