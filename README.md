@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jefferson+Barbosa;I'm+19+years+old;I'm+from+Brazil;)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Jefferson-BR">
-  <img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+<a href="https://github.com/Jefferson-BR">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=synthwave)
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jefferson-BR&bg_color=0D1117&color=58C6E5&line=58C6E5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
