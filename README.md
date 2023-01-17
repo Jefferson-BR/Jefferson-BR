@@ -8,7 +8,7 @@
   <img align="center" height="180em" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jefferson-BR&bg_color=0f0f0f&color=00fbff&line=00ff9d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jefferson-BR&bg_color=0D1117&color=58C6E5&line=58C6E5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- ## 🛠 &nbsp;Tecnologias com que trabalho
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
