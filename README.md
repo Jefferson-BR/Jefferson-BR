@@ -7,7 +7,9 @@ Olá, Seja bem-vindo ao meu perfil!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonBX&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-  <!-- <h1>Redes Sociais</h1>
+  <!-- ########################
+  
+ <h1>Redes Sociais</h1>
   
  ## 🛠 &nbsp;Tecnologias com que trabalho
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -27,7 +29,9 @@ Olá, Seja bem-vindo ao meu perfil!
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp; 
 <br><br> -->
 
-<!-- <h1 align="center">Tecnologias Que Estudo</h1>
+<!-- ########################################
+
+<h1 align="center">Tecnologias Que Estudo</h1>
 <div aling="center" style="display: inline_block"><br>
     <img aling="left" height="250" alt="Coding" src="code.gif">
     <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -41,5 +45,5 @@ Olá, Seja bem-vindo ao meu perfil!
     <img align="center" alt="Jeff-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" alt="Jeff-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Jeff-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-![Snake animation](https://github.com/JeffersonBX/JEffersonBX/blob/output/github-contribution-grid-snake.svg) -->
- </div>
+![Snake animation](https://github.com/JeffersonBX/JEffersonBX/blob/output/github-contribution-grid-snake.svg)
+ </div> -->
