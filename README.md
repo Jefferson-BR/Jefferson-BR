@@ -27,12 +27,12 @@ Olá, Seja bem-vindo ao meu perfil!
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp; 
 <br><br> -->
 
-<!-- <h1 align="center">Tecnologias Que Estudo</h1>
+<h1 align="center">Tecnologias Que Estudo</h1>
 <div aling="center" style="display: inline_block"><br>
     <img aling="left" height="250" alt="Coding" src="code.gif">
     <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="Jeff-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <!-- <img align="center" alt="Jeff-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Jeff-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Jeff-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="center" alt="Jeff-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -40,7 +40,6 @@ Olá, Seja bem-vindo ao meu perfil!
     <img align="center" alt="Jeff-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     <img align="center" alt="Jeff-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="center" alt="Jeff-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Jeff-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-    <img align="center" alt="Jeff-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img align="center" alt="Jeff-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> -->
+![Snake animation](https://github.com/JeffersonBX/JEffersonBX/blob/output/github-contribution-grid-snake.svg)
  </div>
-![Snake animation](https://github.com/JeffersonBX/JEffersonBX/blob/output/github-contribution-grid-snake.svg) -->
