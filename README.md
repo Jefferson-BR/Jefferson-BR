@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=synthwave)
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jefferson-BR&bg_color=0D1117&color=58C6E5&line=58C6E5&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https:/ashutosh00710/github-readme-activity-graph.cyclic.app/graph?username=Jefferson-BR&theme=react-dark)](https://github.com//github-readme-activity-graph)
 
 <!-- ## 🛠 &nbsp;Tecnologias com que trabalho
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
