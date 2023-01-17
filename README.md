@@ -23,8 +23,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp; 
-<br><br>
+<br><br> -->
   
   <div>
-  ![Snake animation]()
-  </div> -->
+  ![Snake animation](https://github.com/Jefferson-BR/Jefferson-BR/blob/outpoot/github-contribution-grid-snake.svg)
+  </div>
