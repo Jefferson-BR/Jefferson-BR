@@ -26,5 +26,7 @@
 <br><br> -->
   
   <div>
-  ![Snake animation](https://github.com/Jefferson-BR/Jefferson-BR/blob/outpoot/github-contribution-grid-snake.svg)
+    
+  ![Snake animation](https://github.com/Jefferson-BR/Jefferson-BR/blob/main/.github/workflows/Snake.yml)
+    
   </div>
