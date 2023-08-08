@@ -2,20 +2,16 @@
 
 Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetivo me tornar um programador (Fullstack).
 
-#### Tecnologias que uso no diariamente
-
+#### Tecnologias que uso no diariamente:
 <div style="display: inline-block">
-
 <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img aling="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
 <br>
 
-#### Tecnologias que estou estudando [...]
-    
+#### Tecnologias que estou estudando:
 <div style="display: inline-block" aling="center">
-
 <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img aling="center" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
 </div>
@@ -26,11 +22,9 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 
 <div align="start">
 <a href="https://github.com/Jefferson-BR">
-
-[![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave)](https://github.com/Jefferson-BR)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-br&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Jefferson-BR)
-
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave">
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-br&layout=compact">
+</div>
 
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
