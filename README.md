@@ -5,7 +5,31 @@
 <div align="center">
 <a href="https://github.com/Jefferson-BR">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave)
+![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave)
+
+### Tecnologias que uso no diariamente
+
+<div style="display: inline-block">
+
+<img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img aling="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+</div>
+
+<br>
+
+#### Tecnologias que estou estudando [...]
+    
+<div style="display: inline-block">
+
+<img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+<img aling="center" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
+</div>
+
+<!-- [![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) -->
+
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) -->
+<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) -->
 
 <!-- ## 🛠 &nbsp;Tecnologias com que trabalho
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -23,5 +47,3 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
 <br><br>-->
-    
-![Snake animation](https://github.com/Jefferson-BR/Jefferson-BR/blob/output/github-contribution-grid-snake.svg)
