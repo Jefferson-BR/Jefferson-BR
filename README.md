@@ -21,15 +21,30 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 </div>
 <br>
 
+### Atividade do Perfil:
+<br>
+
 <div align="start">
 <a href="https://github.com/Jefferson-BR">
 
 [![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave)](https://github.com/Jefferson-BR)
 
-<!-- [![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-br&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Jefferson-BR)
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/) -->
-<!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) -->
+
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+<!--#### Portifólio
+[![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) -->
+
+<br><br>
+
+<!--#### Redes Sociais
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) -->
+
+<br><br>
 
 <!-- ## 🛠 &nbsp;Tecnologias com que trabalho
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
@@ -46,8 +61,4 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jefferson+Barbosa;I'm+20+years+old;I'm+from+Brazil;)](https://git.io/typing-svg)
-
--->
+<br><br> -->
