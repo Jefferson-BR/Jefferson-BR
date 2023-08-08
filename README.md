@@ -24,7 +24,7 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 <div align="start">
 <a href="https://github.com/Jefferson-BR">
 
-![Jefferson-BR GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave)
+[![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave)](https://github.com/Jefferson-BR)
 
 <!-- [![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) -->
 
