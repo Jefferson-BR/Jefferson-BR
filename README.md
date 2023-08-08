@@ -26,8 +26,7 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-br&layout=compact&theme=radical">
 </div>
 
-![Snake animation](https://github.com/Jefferson-BR)
-
+![snake gif](https://github.com/Jefferson-BR/Jefferson-BR/blob/output/github-contribution-grid-snake.svg)
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 <!--#### Portifólio
