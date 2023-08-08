@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jefferson+Barbosa;I'm+20+years+old;I'm+from+Brazil;)](https://git.io/typing-svg)
-
-#### Sobre mim:
+### Sobre mim:
 
 Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetivo me tornar um programador (Fullstack).
 
@@ -12,7 +10,6 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img aling="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
-
 <br>
 
 #### Tecnologias que estou estudando [...]
@@ -22,13 +19,12 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img aling="center" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
 </div>
-
-<br><br>
+<br>
 
 <div align="start">
 <a href="https://github.com/Jefferson-BR">
 
-![Jefferson GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave)
+![Jefferson-BR GitHub stats](https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave)
 
 <!-- [![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) -->
 
@@ -50,4 +46,8 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
-<br><br>-->
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jefferson+Barbosa;I'm+20+years+old;I'm+from+Brazil;)](https://git.io/typing-svg)
+
+-->
