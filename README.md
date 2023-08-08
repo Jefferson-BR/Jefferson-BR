@@ -22,10 +22,11 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 
 <div align="start">
 <a href="https://github.com/Jefferson-BR">
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=synthwave">
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-br&layout=compact">
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=radical">
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-br&layout=compact&theme=radical">
 </div>
 
+![Snake animation](https://github.com/Jefferson-BR)
 
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
