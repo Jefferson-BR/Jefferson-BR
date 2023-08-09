@@ -13,8 +13,8 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 #### Tecnologias que estou estudando:
 <div style="display: inline-block" aling="center">
 <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<img aling="center" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">  
-</div>
+<!-- <img aling="center" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> -->  
+</div> 
 <br>
 
 ### Atividade do Perfil:
