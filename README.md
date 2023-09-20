@@ -39,6 +39,11 @@ I am currently a programming student (Front-end), but I intend to become a progr
 <!--#### Portifólio
 [![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) 
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jefferson-BR}/count.svg" /></p> 
+<br></div>
+
 <br><br>
 
 ![snake gif](https://github.com/Jefferson-BR/Jefferson-BR/blob/output/github-contribution-grid-snake.svg) -->
