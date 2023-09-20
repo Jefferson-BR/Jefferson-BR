@@ -33,6 +33,8 @@ I am currently a programming student (Front-end), but I intend to become a progr
 </div> 
 <br>
 
+[![Jefferson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jefferson-BR&theme=react-dark)](https://github.com/Jefferson-BR/github-readme-activity-graph)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
