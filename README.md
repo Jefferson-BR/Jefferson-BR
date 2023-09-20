@@ -1,23 +1,8 @@
-### Sobre mim:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetivo me tornar um programador (Fullstack).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Jefferson+Barbosa;I'm+20+years+old;I+from+Brasil;Be+Welcome+my+profile!:%29)](https://git.io/typing-svg)
 
-#### Tecnologias que uso no diariamente:
-<div style="display: inline-block">
-<img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img aling="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-</div>
-<br>
-
-#### Tecnologias que estou estudando:
-<div style="display: inline-block" aling="center">
-<img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<!-- <img aling="center" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> -->  
-</div> 
-<br>
-
-### Atividade do Perfil:
+### Profile Activity:
 <br>
 
 <div align="start">
@@ -26,13 +11,34 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 <img height="175px" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16">
 </div>
 
-![snake gif](https://github.com/Jefferson-BR/Jefferson-BR/blob/output/github-contribution-grid-snake.svg)
-<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+### About me:
+
+I am currently a programming student (Front-end), but I intend to become a programmer (Fullstack).
+
+#### Technologies I use daily:
+<div style="display: inline-block">
+<img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img aling="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+</div>
+<br>
+
+#### Technologies I am currently studying:
+<div style="display: inline-block" aling="center">
+<img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+<!-- <img aling="center" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> -->  
+</div> 
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
 
 <!--#### Portifólio
-[![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) -->
+[![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) 
 
 <br><br>
+
+![snake gif](https://github.com/Jefferson-BR/Jefferson-BR/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--#### Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
