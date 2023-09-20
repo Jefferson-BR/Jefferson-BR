@@ -22,7 +22,7 @@ Atualmente Sou um Estudante de Programação (Front-end), mas tenho como objetiv
 
 <div align="start">
 <a href="https://github.com/Jefferson-BR">
-<img height="175px" width="400" src="https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+<img height="175px" width="400" src="https://github-readme-stats.vercel.app/api?username=jefferson-br&show_icons=true&theme=radical&count_private=true">
 <img height="175px" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-br&layout=compact&theme=radical&langs_count=16">
 </div>
 
