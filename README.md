@@ -15,11 +15,14 @@
 
 I am currently a programming student (Front-end), but I intend to become a programmer (Fullstack).
 
+#### tools I use:
+
+<img aling="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
 #### Technologies I use daily:
 <div style="display: inline-block">
 <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img aling="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+<img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 </div>
 <br>
 
