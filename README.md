@@ -8,7 +8,7 @@
 <div align="start">
 <a href="https://github.com/Jefferson-BR">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson-BR&include_all_commits=true&show_icons=true&theme=radical&count_private=true)](https://github.com/Jefferson-BR/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&count_private=true)](https://github.com/Jefferson-BR/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- <img height="175px" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&count_private=true">
