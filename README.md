@@ -33,7 +33,8 @@ I am currently a programming student (Front-end), but I intend to become a progr
 #### Technologies I am currently studying:
 <div style="display: inline-block" aling="center">
 <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<!-- <img aling="center" alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> -->  
+<img aling="center" alt"PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img aling="center" alt"PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div> 
 <br>
 
