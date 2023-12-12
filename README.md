@@ -21,7 +21,16 @@ I am currently a programming student (Front-end), but I intend to become a progr
 
 <img aling="center" alt="VSCODE" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="GIMP" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="VIRTUALBOX" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 
-<!-- <img aling="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
+<!-- &nbsp;&nbsp;&nbsp;<img aling="center" alt="VMWARE" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
+-->
+
+<!--
+
+### operating systems I use:
+
+<img aling="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;&nbsp;&nbsp;<img aling="center" alt="KALI LINUX" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+
+-->
 
 #### Technologies I use daily:
 <div style="display: inline-block">
