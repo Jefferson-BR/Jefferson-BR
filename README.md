@@ -8,7 +8,7 @@
 <div align="start">
 <a href="https://github.com/Jefferson-BR">
 
-<img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&count_private=true"><img align="center" height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16">
+<img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&include_all_commits=true&count_private=true"><img align="center" height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16">
 
 </div>
 
