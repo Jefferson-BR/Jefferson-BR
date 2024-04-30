@@ -12,7 +12,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=Jefferson-BR&theme=transparent&hide_border=true)
 
 ### About me:
@@ -50,9 +50,6 @@ I am currently a programming student (Front-end), but I intend to become a progr
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
-
 
 
 <!-- AREA PARA ATUALIZAR DEPOIS [...] -->
