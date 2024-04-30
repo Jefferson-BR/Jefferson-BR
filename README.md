@@ -2,18 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Jefferson+Barbosa;I'm+20+years+old;I+from+Brasil;Be+Welcome+my+profile!:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  
 ### Profile Activity:
-<br>
 
-<div align="start">
 <a href="https://github.com/Jefferson-BR">
-
 <img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&totalCommitsFetche&count_private=true"><img align="center" height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16">
-
+  
 </div>
 
+<div align=center>
+  
 ### 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=Jefferson-BR&theme=transparent&hide_border=true)
+  
+<div/>
 
 ### About me:
 
