@@ -12,6 +12,9 @@
 
 </div>
 
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com?user=Jefferson-BR&theme=transparent&hide_border=true)
+
 ### About me:
 
 I am currently a programming student (Front-end), but I intend to become a programmer (Fullstack).
