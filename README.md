@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### 💻 Profile Activity:
+### Profile Activity:
 
 <a href="https://github.com/Jefferson-BR">
 <img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&totalCommitsFetche&count_private=true"><img align="center" height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16">
@@ -22,29 +22,22 @@
 
 I am currently a programming student (Front-end), but I intend to become a programmer (Fullstack).
 
-#### tools I use:
+#### 🛠️ tools I use:
 
 <img aling="center" alt="VSCODE" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="PHOTOSHOP" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">&nbsp;&nbsp;&nbsp;<img aling="center" alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="VIRTUALBOX" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="PREMIERE PRO" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="AUDITION" src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white">
 
-<!-- &nbsp;&nbsp;&nbsp;<img aling="center" alt="VMWARE" src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
--->
-
-<!--
-
-### operating systems I use:
+### 💻 operating systems I use:
 
 <img aling="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;&nbsp;&nbsp;<img aling="center" alt="KALI LINUX" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 
--->
-
-#### Technologies I use daily:
+####  Technologies I use daily:
 <div style="display: inline-block">
 <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 </div>
 <br>
 
-#### Technologies I am currently studying:
+#### 📚 Technologies I am currently studying:
 <div style="display: inline-block" aling="center">
 <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img aling="center" alt"PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
