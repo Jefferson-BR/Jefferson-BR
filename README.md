@@ -30,14 +30,14 @@ I am currently a programming student (Front-end), but I intend to become a progr
 
 <img aling="center" alt="WINDOWS" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;&nbsp;&nbsp;<img aling="center" alt="KALI LINUX" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
 
-####  Technologies I use daily:
+#### Technologies I use daily:
 <div style="display: inline-block">
 <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 </div>
 <br>
 
-#### 📚 Technologies I am currently studying:
+#### Technologies I am currently studying:
 <div style="display: inline-block" aling="center">
 <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img aling="center" alt"PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
