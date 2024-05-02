@@ -25,7 +25,7 @@ I am currently a programming student (Front-end), but I intend to become a progr
 #### 🛠️ tools I use:
 
 <img aling="center" alt="VSCODE" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="PHOTOSHOP" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">&nbsp;&nbsp;&nbsp;<img aling="center" alt="XAMPP" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="VIRTUALBOX" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="PREMIERE PRO" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">&nbsp;&nbsp;&nbsp;<img aling="center" alt="AUDITION" src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white">
-<br>
+<br><br>
 
 ### 💻 operating systems I use:
 
@@ -37,7 +37,6 @@ I am currently a programming student (Front-end), but I intend to become a progr
 <img aling="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
 </div>
-<br>
 
 #### Technologies I am currently studying:
 <div style="display: inline-block" aling="center">
