@@ -52,6 +52,10 @@ I am currently a programming student (Front-end), but I intend to become a progr
 <img aling="center" alt"C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 <img aling="center" alt"SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 <img aling="center" alt"MYSQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img aling="center" alt"NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+<img aling="center" alt"TYPESCRIPT" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img aling="center" alt"GRAPHQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
+<img aling="center" alt"NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 -->
   
 </div> 
@@ -62,7 +66,7 @@ I am currently a programming student (Front-end), but I intend to become a progr
 
 <!-- AREA PARA ATUALIZAR DEPOIS [...] -->
 
-<!--#### Portifólio
+<!-- #### Portifólio
 [![blog](https://img.shields.io/website?label=www.jeffersonbarbosa.com&style=for-the-badge&url=https://jeffersonbarbosa.com/)](https://jeffersonbarbosa.com) 
 
 <div align="center">
@@ -79,18 +83,3 @@ I am currently a programming student (Front-end), but I intend to become a progr
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) -->
 
 <br><br>
-
-<!-- ## 🛠 &nbsp;Tecnologias com que trabalho
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
-<br><br> -->
