@@ -55,7 +55,6 @@ I am currently a programming student (Front-end), but I intend to become a progr
 <img aling="center" alt"NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 <img aling="center" alt"TYPESCRIPT" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 <img aling="center" alt"GRAPHQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
-<img aling="center" alt"NGINX" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 -->
   
 </div> 
