@@ -77,8 +77,6 @@ I am currently a programming student (Front-end), but I intend to become a progr
 
 <br><br>
 
-![snake gif](https://github.com/Jefferson-BR/Jefferson-BR/blob/output/github-contribution-grid-snake.svg) -->
-
 <!--#### Redes Sociais
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) -->
