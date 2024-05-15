@@ -6,15 +6,15 @@
   
 ### Profile Activity:
 
-<img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=jeffersonbarbosabr&show_icons=true&theme=radical&count_private=true">
-<img align="center" height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonbarbosabr&layout=compact&theme=radical&langs_count=16">
+<img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&count_private=true">
+<img align="center" height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16">
   
 </div>
 
 <div align=center>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeffersonbarbosabr&theme=transparent&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jefferson-BR&theme=transparent&hide_border=true)
   
 <div/>
 
