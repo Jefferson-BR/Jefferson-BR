@@ -6,7 +6,7 @@
   
 ### Profile Activity:
 
-<img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&count_private=true&access_token=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">
+<img align="center" height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&count_private=true>
 <img align="center" height="170em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16">
   
 </div>
