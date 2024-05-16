@@ -7,10 +7,10 @@
 ### Profile Activity:
 
 <a href="https://github.com/Jefferson-BR/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=radical&count_private=true"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jefferson-BR&show_icons=true&theme=algolia&count_private=true"/>
 </a>
 <a href="https://github.com/Jefferson-BR">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jefferson-BR&layout=compact&theme=radical&langs_count=16&card_width=320"/>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jefferson-BR&layout=compact&theme=algolia&langs_count=16&card_width=320"/>
 </a>
   
 </div>
@@ -18,7 +18,7 @@
 <div align=center>
   
 ### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jefferson-BR&theme=radical&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jefferson-BR&theme=algolia&hide_border=true)
   
 <div/>
 
@@ -52,6 +52,9 @@ I am currently a programming student (Front-end), but I intend to become a progr
 <div style="display: inline-block" aling="center">
 <img aling="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img aling="center" alt"PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<br><br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jefferson-BR&theme=react-dark)](https://github.com/Jefferson-BR/github-readme-activity-graph)
   
 <!--
 <img aling="center" alt"PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
