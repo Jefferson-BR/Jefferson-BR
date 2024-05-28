@@ -3,6 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Jefferson+Barbosa;I'm+21+years+old;I+from+Brasil;Be+Welcome+my+profile!:%29)](https://git.io/typing-svg)
 
 <div align="center">
+
+### ⚠️ Warning: My profile is under development, it is not yet complete, there will be more projects in the future...
   
 ### Profile Activity:
 
